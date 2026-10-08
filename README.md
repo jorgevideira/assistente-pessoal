@@ -10,6 +10,18 @@ Você (Telegram)  ──►  Google Apps Script  ──►  Gemini (IA)
                             └──◄  Outlook (link ICS, somente leitura)
 ```
 
+## Veja funcionando
+
+<p align="center">
+  <img src="docs/imagens/chat-inicio.svg" width="300" alt="Primeiro contato: /start registra o dono e mostra exemplos">
+  &nbsp;
+  <img src="docs/imagens/chat-agenda-gastos.svg" width="300" alt="Consulta da agenda com eventos do trabalho, registro de gasto e compromisso criado por áudio">
+  &nbsp;
+  <img src="docs/imagens/chat-resumo-lembrete.svg" width="300" alt="Resumo diário, lembrete de compromisso e consulta de gastos">
+</p>
+
+<p align="center"><sub>Ilustrações com dados fictícios.</sub></p>
+
 ## O que ele faz
 
 | Você manda | O bot faz |

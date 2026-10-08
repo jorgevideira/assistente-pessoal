@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#d4e7c5"/><stop offset="1" stop-color="#b9d8a8"/>
+  </linearGradient>
+  <filter id="s" x="-5%" y="-5%" width="110%" height="120%"><feDropShadow dx="0" dy="1" stdDeviation="0.6" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="420" height="340" rx="22" fill="url(#bg)"/>
+<rect width="420" height="58" rx="22" fill="#f7f7f7"/>
+<rect y="36" width="420" height="22" fill="#f7f7f7"/>
+<line x1="0" y1="58" x2="420" y2="58" stroke="#d9d9d9"/>
+<text x="20" y="36" font-size="22" fill="#2a6fb0">‹</text>
+<text x="210.0" y="28" font-size="16" font-weight="600" fill="#1c1c1e" text-anchor="middle">MeuAssistenteBot</text>
+<text x="210.0" y="46" font-size="12" fill="#8e8e93" text-anchor="middle">bot</text>
+<circle cx="386" cy="29" r="17" fill="#5b8def"/>
+<text x="386" y="35" font-size="16" font-weight="600" fill="#fff" text-anchor="middle">A</text>
+<rect x="176.0" y="70" width="68" height="22" rx="11" fill="#8fb98a" opacity="0.85"/>
+<text x="210.0" y="86" font-size="12" fill="#fff" text-anchor="middle">Hoje</text>
+<rect x="81.5" y="102" width="324" height="54" rx="14" fill="#dcf8c6" filter="url(#s)"/>
+<text x="95.5" y="126" font-size="15" fill="#1c1c1e">O que tenho de compromisso esse mês?</text>
+<text x="396" y="147" font-size="11" fill="#5c8a5b" text-anchor="end">11:54 ✓✓</text>
+<rect x="14" y="166" width="328" height="94" rx="14" fill="#ffffff" filter="url(#s)"/>
+<text x="28" y="190" font-size="15" fill="#1c1c1e">⚠️ Deu um erro: O limite gratuito do</text>
+<text x="28" y="210" font-size="15" fill="#1c1c1e">Gemini foi atingido no momento.</text>
+<text x="28" y="230" font-size="15" fill="#1c1c1e">Tente de novo em alguns minutos.</text>
+<text x="332" y="251" font-size="11" fill="#8e8e93" text-anchor="end">11:55</text>
+<rect x="12" y="288" width="396" height="40" rx="20" fill="#ffffff" opacity="0.9"/>
+<text x="32" y="313" font-size="14" fill="#b0b0b5">Mensagem</text>
+<circle cx="382" cy="308" r="14" fill="#e9f3e4"/>
+<rect x="378" y="299" width="8" height="12" rx="4" fill="#4fae4e"/>
+<path d="M374,307 a8,8 0 0 0 16,0" stroke="#4fae4e" stroke-width="2" fill="none"/>
+</svg>

@@ -32,6 +32,8 @@ Plano B, se ainda falhar: `ativarModoPolling` (o script busca as mensagens a cad
 
 ## "⚠️ O limite gratuito do Gemini foi atingido" logo na primeira mensagem
 
+<img src="imagens/chat-erro-gemini.svg" width="300" alt="Bot respondendo com erro de limite do Gemini">
+
 Não era limite: o modelo estava sobrecarregado (erro 503) ou não estava disponível na camada gratuita.
 
 1. Execute **`testarGemini`** — ele testa vários modelos com a sua chave.

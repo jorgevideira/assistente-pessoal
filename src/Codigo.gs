@@ -38,7 +38,7 @@ const HORA_RESUMO      = 7;    // resumo diário às 7h
 const LEMBRETES_MINUTOS = [15];
 const NOME_AGENDA_TRABALHO = 'Trabalho (Outlook)';
 // Outras agendas do Google para o bot consultar (somente leitura), pelo nome exato que aparece no Google Agenda.
-const AGENDAS_EXTRAS   = ['Videira Sertãozinho'];
+const AGENDAS_EXTRAS   = []; // ex.: ['Família', 'Clube do Livro']
 const SYNC_DIAS        = 60;   // sincroniza do dia anterior até 60 dias à frente
 const CATEGORIAS = ['Alimentação', 'Mercado', 'Transporte', 'Moradia', 'Contas',
                     'Saúde', 'Lazer', 'Educação', 'Compras', 'Outros'];

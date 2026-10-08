@@ -19,7 +19,7 @@ Tudo fica no topo de `src/Codigo.gs`. Depois de mudar qualquer coisa: salve e pu
 | `MODELOS_RESERVA` | `['gemini-flash-lite-latest', 'gemini-3.5-flash']` | Usados automaticamente se o principal estiver fora do ar. |
 | `HORA_RESUMO` | `7` | Hora do resumo diário. Depois de mudar, rode `criarGatilhos`. |
 | `LEMBRETES_MINUTOS` | `[15]` | Avisos antes de cada compromisso. Ex.: `[60, 15]` = 1 h antes e 15 min antes. Máximo 360. |
-| `AGENDAS_EXTRAS` | `['Videira Sertãozinho']` | Outras agendas do Google para consultar (somente leitura), pelo nome exato. Rode `listarAgendas` para ver os nomes. |
+| `AGENDAS_EXTRAS` | `[]` (ex.: `['Família', 'Clube do Livro']`) | Outras agendas do Google para consultar (somente leitura), pelo nome exato. Rode `listarAgendas` para ver os nomes. |
 | `NOME_AGENDA_TRABALHO` | `'Trabalho (Outlook)'` | Nome da agenda criada para o Outlook. |
 | `SYNC_DIAS` | `60` | Quantos dias à frente sincronizar do Outlook. |
 | `CATEGORIAS` | Alimentação, Mercado, Transporte… | Categorias de gasto que a IA pode usar. |
